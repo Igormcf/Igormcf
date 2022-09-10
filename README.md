@@ -1,7 +1,8 @@
 ## Oii! Eu sou o Igor Maciel 👋
 
 - 🔭 Atualmente estou passando por uma transição de carreira;
-- 🌱 Estudando React;
+- 🧑🏽‍💻 Desenvolvedor Full-Stack;
+- 🌱 Estudando MongoDB;
 - 📫 Contate-me no e-mail: igormaciel82@gmail.com;
 - 😄 Pronomes: ele/dele;
 
