@@ -1,6 +1,4 @@
 ## Oii! Eu sou o Igor Maciel 👋
-
-- 🔭 Atualmente estou passando por uma transição de carreira;
 - 🧑🏽‍💻 Desenvolvedor Full-Stack;
 - 🌱 Estudando MongoDB;
 - 📫 Contate-me no e-mail: igormaciel82@gmail.com;
