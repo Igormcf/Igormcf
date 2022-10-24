@@ -1,6 +1,6 @@
 ## Oii! Eu sou o Igor Maciel 👋
 - 🧑🏽‍💻 Desenvolvedor Full-Stack;
-- 🌱 Estudando MongoDB;
+- 🌱 Atualmente estudando Python e C#;
 - 📫 Contate-me no e-mail: igormaciel82@gmail.com;
 - 😄 Pronomes: ele/dele;
 
